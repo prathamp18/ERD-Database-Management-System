@@ -15,7 +15,7 @@ The database is structured into multiple interconnected tables, ensuring **data 
 - **Assessment Levels** 📏
 
 ## 📂 ER Diagram
-> The ERD visually represents relationships between different entities, showcasing how courses, disciplines, and graduate attributes interconnect.
+The ERD visually represents relationships between different entities, showcasing how courses, disciplines, and graduate attributes interconnect.
 
 ## 🛠️ Technologies Used
 - **Database**: MySQL / PostgreSQL
