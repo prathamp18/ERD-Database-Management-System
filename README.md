@@ -1,4 +1,4 @@
-# 📌 ER Diagram & Database Management System
+# 📌 ER Diagram & University Database Management System
 
 ## 📖 Project Overview
 This project focuses on designing an **Entity-Relationship Diagram (ERD)** and implementing a **Database Management System** (DBMS) based on the ERD. The system models various academic entities such as **Courses, Departments, Disciplines, Learning Outcomes, and Graduate Attributes**.
